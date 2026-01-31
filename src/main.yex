@@ -1,0 +1,40 @@
+<application> = "Yex Enterprise v1.0"
+<version> = "1.0.0"
+
+// إنشاء عنصر جديد من الصفر (Blueprint)
+<blueprint> CustomCard {
+  background = "#111111"
+  color = "#6366f1"
+  radius = "20px"
+}
+
+// استخدام العنصر الذي تم إنشاؤه
+<CustomCard> Main_Dashboard {
+  content = "لوحة التحكم المخصصة"
+  padding = "40px"
+  borders = "1px solid #333"
+}
+
+<top_bar> Global_Nav {
+  content = "YEX CLOUD PRO"
+  background = "#050505"
+}
+
+<pyramid> Welcome_Hero {
+  content = "برمج عناصرك الخاصة بلغة Yex"
+  background = "linear-gradient(to right, #4f46e5, #9333ea)"
+  animation = "pulse"
+  radius = "40px"
+}
+
+<dictionary> Performance_Metrics {
+  content = "Logic, Speed, Security"
+  data = "100%, 0.1ms, High"
+  background = "#09090b"
+}
+
+<button> Generate_SDK {
+  content = "تحميل حزمة 10MB SDK"
+  background = "white"
+  color = "black"
+}
