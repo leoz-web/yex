@@ -1,6 +1,7 @@
 # 💎 YEX PROGRAMMING LANGUAGE SDK v1.0 GOLD
 
 ![Yex Logo](assets/yex-pro-logo.svg)
+[![Yex SDK Enterprise Publish](https://github.com/leoz-web/yex/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/leoz-web/yex/actions/workflows/npm-publish-github-packages.yml)
 
 ## The Evolution of Web Programming
 Yex is an enterprise-grade, symbolic programming language designed to build high-performance mini-web applications with a fraction of the code.
