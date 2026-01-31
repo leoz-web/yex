@@ -1,0 +1,14 @@
+{
+  "name": "yex-enterprise-sdk",
+  "version": "1.0.0",
+  "description": "Official Gold SDK for Yex Language",
+  "bin": {
+    "yex": "cli/yex-cli.js"
+  },
+  "main": "core/compiler.engine.js",
+  "author": "Yex Foundation",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
